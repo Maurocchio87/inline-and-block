@@ -15,7 +15,7 @@ body{
     color: white;
 }
 .myA{
-    background-color: blueviolet;
+    background-color:indianred;
 }
 .dimSpan{
     width: 500px;
@@ -45,5 +45,25 @@ body{
 }
 .greenSpan{
     background-color:darkgreen;
+    color: white;
+}
+
+.imaDiv{
+    background-color: burlywood;
+}
+.imaP{
+    background-color: brown;
+    color: white;
+}
+.imaH3{
+    background-color: darkmagenta;
+    color: white;
+}
+.imaUl{
+    background-color: chartreuse;
+}
+.imaUl li{
+    background-color: crimson;
+    margin-bottom: 10px;
     color: white;
 }
